@@ -81,3 +81,9 @@ Distributed under **Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Inte
 ---
 
 > *“Created by a human engine. Refined by AI. Designed for the cognitively awakened.”*
+---
+
+## 📄 License
+
+This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) terms.  
+See full terms here: [LICENSE.md](LICENSE.md)
